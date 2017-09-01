@@ -38,10 +38,10 @@ word_frequency = {} # frequency of each word seen so far
 
 for word in l:
     if word in seen_words:
-    	word_frequency[word] += 1
+        word_frequency[word] += 1
     else:
-    	word_frequency[word] = 1
-    	seen_words.append(word)
+        word_frequency[word] = 1
+        seen_words.append(word)
 
 list_of_words = [(word[1], word[0]) for word in word_frequency.items()]
 list_of_words.sort(reverse=True)

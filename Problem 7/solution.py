@@ -240,26 +240,26 @@ log = """----BEGIN CLASS----
 nicks = {}
 
 for line in log.split('\n'):
-	parts = line.split()
-	if len(parts) < 3:
-		continue
-	
-	current_nick = parts[1].strip('<>')
-	words_spoken = parts[2:]
+    parts = line.split()
+    if len(parts) < 3:
+        continue
+    
+    current_nick = parts[1].strip('<>')
+    words_spoken = parts[2:]
 
-	if current_nick in nicks:
-		# Update the number of lines spoken by the nick
-		nicks[current_nick][0] += 1
-		# Update the number of words spoken by the nick
-		nicks[current_nick][1] += len(words_spoken)
-	else:
-		# Create a new nick entry
-		nicks[current_nick] = []
-		nicks[current_nick].append(1)
-		nicks[current_nick].append(len(words_spoken))
+    if current_nick in nicks:
+        # Update the number of lines spoken by the nick
+        nicks[current_nick][0] += 1
+        # Update the number of words spoken by the nick
+        nicks[current_nick][1] += len(words_spoken)
+    else:
+        # Create a new nick entry
+        nicks[current_nick] = []
+        nicks[current_nick].append(1)
+        nicks[current_nick].append(len(words_spoken))
 
 print('There were {} different nicks present in the log'.format(len(nicks)))
 print('\nDetailed overview:')
 print('------------------')
 for current_nick in nicks:
-	print('{} spoke {} lines and {} words.'.format(current_nick, nicks[current_nick][0], nicks[current_nick][1]))
+    print('{} spoke {} lines and {} words.'.format(current_nick, nicks[current_nick][0], nicks[current_nick][1]))
