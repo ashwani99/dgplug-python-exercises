@@ -39,3 +39,6 @@ l = ['Though', 'yet', 'of', 'Hamlet', 'our', 'dear', "brother's", 'death',
 ```
 
 Write a program to tell us which two words has highest usages.
+
+### Solution
+[solution.py](https://github.com/ashwani99/dgplug-python-exercises/blob/master/Problem%205/solution.py)

@@ -4,3 +4,6 @@ Take the whole file as a string in triple quotes from [https://dgplug.org/irclog
 1. How many different nicks were present in that log
 2. Who spoke how many lines
 3. And how many words
+
+### Solution
+[solution.py](https://github.com/ashwani99/dgplug-python-exercises/blob/master/Problem%207/solution.py)
