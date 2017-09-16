@@ -6,3 +6,9 @@ Clone the repository. Then `cd` into required exercise directory. Run the script
 ```bash
 python3 solution.py
 ```
+
+## Requires
+- Python 3.x
+
+## License
+MIT
