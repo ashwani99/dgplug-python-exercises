@@ -1,3 +1,5 @@
+"""Write a function which will take an URL as argument and will return all the links from that URL"""
+
 from bs4 import BeautifulSoup
 import requests
 

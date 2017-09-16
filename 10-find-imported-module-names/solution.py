@@ -1,3 +1,7 @@
+"""Write a code/function, which will take a python file name/path as input, and then tells us which 
+all modules have been imported in that file. The full path of the file will be passed as as an
+argument to the function."""
+
 def get_module_names(path):
     modules = []
     with open(path, 'r') as fileobj:

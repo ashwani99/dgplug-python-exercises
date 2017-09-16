@@ -1,3 +1,6 @@
+"""Given a list basket = ["apple", "banana", "pineapple", "mango"] pick out the 
+fruits whose name starts with a vowel."""
+
 basket = ["apple", "banana", "pineapple", "mango"]
 
 print('Fruits whose name start with a vowel are:')

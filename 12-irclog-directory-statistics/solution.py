@@ -1,3 +1,7 @@
+"""Pass the URL https://dgplug.org/irclogs/2017/ to a function, it will find and download all the 
+log files from there. And show us a final report about how spoke how much. Use `BeautifulSoup4` and 
+`requests` module for this."""
+
 from bs4 import BeautifulSoup
 import requests
 import os

@@ -1,3 +1,8 @@
+"""Write a function when calling it, it will return a tuple:
+
+- first value is the name of the distribution, 
+- second value is the version id of the distribution."""
+
 import re
 
 # Without using regex
