@@ -29,7 +29,7 @@ def download_image(url):
                 filename = url.split('/')[-1]
                 with open(filename, 'wb') as file:
                      file.write(response.content)
-                print('Image successfully downloaded.')
+                print('{} has been successfully downloaded.'.format(filename))
             else:
                 print('Invalid image file.')
         except requests.exceptions.RequestException as e:
