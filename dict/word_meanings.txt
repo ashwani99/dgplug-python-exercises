@@ -1,0 +1,425 @@
+a:{'Noun': ['a metric unit of length equal to one ten billionth of a meter (or 0.0001 micron', 'any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes', 'one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose', '(biochemistry', "the basic unit of electric current adopted under the Systeme International d'Unites", 'the 1st letter of the Roman alphabet', 'the blood group whose red cells carry the A antigen']}
+aa:{'Noun': ['a dry form of lava resembling clinkers', 'an international organization that provides a support group for persons trying to overcome alcoholism', 'an associate degree in arts', 'a terrorist organization whose goal is to take over Japan and then the world; based on a religion founded in 1987 that combines elements of Buddhism with Christianity']}
+aaa:{'Noun': ['an aneurysm of the abdominal aorta associated with old age and hypertension']}
+aah:{'Verb': ["express admiration and pleasure by uttering `ooh' or `aah'"]}
+aahed:{'Verb': ["express admiration and pleasure by uttering `ooh' or `aah'"]}
+aahing:{'Verb': ["express admiration and pleasure by uttering `ooh' or `aah'"]}
+aahs:{'Verb': ["express admiration and pleasure by uttering `ooh' or `aah'"]}
+aalii:{'Noun': ['a small Hawaiian tree with hard dark wood']}
+aaliis:{'Noun': ['a small Hawaiian tree with hard dark wood']}
+aardvark:{'Noun': ['nocturnal burrowing mammal of the grasslands of Africa that feeds on termites; sole extant representative of the order Tubulidentata']}
+aardvarks:{'Noun': ['nocturnal burrowing mammal of the grasslands of Africa that feeds on termites; sole extant representative of the order Tubulidentata']}
+aardwolf:{'Noun': ['striped hyena of southeast Africa that feeds chiefly on insects']}
+aardwolves:{'Noun': ['striped hyena of southeast Africa that feeds chiefly on insects']}
+aaron:{'Noun': ['United States professional baseball player who hit more home runs than Babe Ruth (born in 1934', '(Old Testament']}
+aas:{'Noun': ['a dry form of lava resembling clinkers', 'an international organization that provides a support group for persons trying to overcome alcoholism', 'an associate degree in arts', 'an associate degree in applied science']}
+ab:{'Noun': ["a bachelor's degree in arts and sciences", 'the eleventh month of the civil year; the fifth month of the ecclesiastical year in the Jewish calendar (in July and August', 'the muscles of the abdomen', 'the blood group whose red cells carry both the A and B antigens']}
+aba:{'Noun': ['a loose sleeveless outer garment made from aba cloth; worn by Arabs', 'a fabric woven from goat hair and camel hair']}
+abaca:{'Noun': ['a kind of hemp obtained from the abaca plant in the Philippines', 'Philippine banana tree having leafstalks that yield Manila hemp used for rope and paper etc']}
+abacas:{'Noun': ['a kind of hemp obtained from the abaca plant in the Philippines', 'Philippine banana tree having leafstalks that yield Manila hemp used for rope and paper etc']}
+abaci:{'Noun': ['a tablet placed horizontally on top of the capital of a column as an aid in supporting the architrave', 'a calculator that performs arithmetic functions by manually sliding counters on rods or in grooves']}
+abacinate:{'Verb': ["blind by holding a red-hot metal plate before someone's eyes"]}
+aback:{'Adverb': ['having the wind against the forward side of the sails', 'by surprise']}
+abactinal:{'Adjective': ['(of radiate animals']}
+abacus:{'Noun': ['a tablet placed horizontally on top of the capital of a column as an aid in supporting the architrave', 'a calculator that performs arithmetic functions by manually sliding counters on rods or in grooves']}
+abacuses:{'Noun': ['a tablet placed horizontally on top of the capital of a column as an aid in supporting the architrave', 'a calculator that performs arithmetic functions by manually sliding counters on rods or in grooves']}
+abaft:{'Adverb': ['at or near or toward the stern of a ship or tail of an airplane']}
+abalone:{'Noun': ['any of various large edible marine gastropods of the genus Haliotis having an ear-shaped shell with pearly interior']}
+abalones:{'Noun': ['any of various large edible marine gastropods of the genus Haliotis having an ear-shaped shell with pearly interior']}
+abamp:{'Noun': ['a unit of current equal to 10 amperes']}
+abampere:{'Noun': ['a unit of current equal to 10 amperes']}
+abamperes:{'Noun': ['a unit of current equal to 10 amperes']}
+abamps:{'Noun': ['a unit of current equal to 10 amperes']}
+abandon:{'Verb': ['forsake, leave behind', 'give up with the intent of never claiming again', 'leave behind empty; move out of', 'stop maintaining or insisting on; of ideas or claims', 'leave someone who needs or counts on you; leave in the lurch'], 'Noun': ['the trait of lacking restraint or control; reckless freedom from inhibition or worry', 'a feeling of extreme emotional intensity']}
+abandoned:{'Adjective': ['forsaken by owner or inhabitants', 'unrestrained and uninhibited'], 'Verb': ['forsake, leave behind', 'give up with the intent of never claiming again', 'leave behind empty; move out of', 'stop maintaining or insisting on; of ideas or claims', 'leave someone who needs or counts on you; leave in the lurch']}
+abandoning:{'Verb': ['forsake, leave behind', 'give up with the intent of never claiming again', 'leave behind empty; move out of', 'stop maintaining or insisting on; of ideas or claims', 'leave someone who needs or counts on you; leave in the lurch']}
+abandonment:{'Noun': ['the act of giving something up', 'withdrawing support or help despite allegiance or responsibility', 'the voluntary surrender of property (or a right to property']}
+abandonments:{'Noun': ['the act of giving something up', 'withdrawing support or help despite allegiance or responsibility', 'the voluntary surrender of property (or a right to property']}
+abandons:{'Verb': ['forsake, leave behind', 'give up with the intent of never claiming again', 'leave behind empty; move out of', 'stop maintaining or insisting on; of ideas or claims', 'leave someone who needs or counts on you; leave in the lurch'], 'Noun': ['the trait of lacking restraint or control; reckless freedom from inhibition or worry', 'a feeling of extreme emotional intensity']}
+abarticulation:{'Noun': ['dislocation of a joint']}
+abas:{'Noun': ['a loose sleeveless outer garment made from aba cloth; worn by Arabs', 'a fabric woven from goat hair and camel hair']}
+abase:{'Verb': ['cause to feel shame; hurt the pride of']}
+abased:{'Verb': ['cause to feel shame; hurt the pride of']}
+abasement:{'Noun': ['a low or downcast state', 'depriving one of self-esteem']}
+abasements:{'Noun': ['a low or downcast state', 'depriving one of self-esteem']}
+abases:{'Verb': ['cause to feel shame; hurt the pride of']}
+abash:{'Verb': ['cause to be embarrassed; cause to feel self-conscious']}
+abashed:{'Adjective': ['feeling or caused to feel ill at ease or self-conscious or ashamed'], 'Verb': ['cause to be embarrassed; cause to feel self-conscious']}
+abashes:{'Verb': ['cause to be embarrassed; cause to feel self-conscious']}
+abashing:{'Verb': ['cause to be embarrassed; cause to feel self-conscious']}
+abashment:{'Noun': ['feeling embarrassed due to modesty']}
+abashments:{'Noun': ['feeling embarrassed due to modesty']}
+abasia:{'Noun': ['inability to walk']}
+abasias:{'Noun': ['inability to walk']}
+abasic:{'Adjective': ['of or relating to abasia (inability to walk']}
+abasing:{'Verb': ['cause to feel shame; hurt the pride of']}
+abatable:{'Adjective': ['capable of being abated']}
+abate:{'Verb': ['make less active or intense', 'become less in amount or intensity']}
+abated:{'Verb': ['make less active or intense', 'become less in amount or intensity']}
+abatement:{'Noun': ['an interruption in the intensity or amount of something', 'the act of abating']}
+abatements:{'Noun': ['an interruption in the intensity or amount of something', 'the act of abating']}
+abates:{'Verb': ['make less active or intense', 'become less in amount or intensity']}
+abatic:{'Adjective': ['of or relating to abasia (inability to walk']}
+abating:{'Verb': ['make less active or intense', 'become less in amount or intensity']}
+abatis:{'Noun': ['a line of defense consisting of a barrier of felled or live trees with branches (sharpened or with barbed wire entwined']}
+abatises:{'Noun': ['a line of defense consisting of a barrier of felled or live trees with branches (sharpened or with barbed wire entwined']}
+abator:{'Noun': ['a person who abates a nuisance']}
+abators:{'Noun': ['a person who abates a nuisance']}
+abattis:{'Noun': ['a line of defense consisting of a barrier of felled or live trees with branches (sharpened or with barbed wire entwined']}
+abattises:{'Noun': ['a line of defense consisting of a barrier of felled or live trees with branches (sharpened or with barbed wire entwined']}
+abattoir:{'Noun': ['a building where animals are butchered']}
+abattoirs:{'Noun': ['a building where animals are butchered']}
+abaxial:{'Adjective': ['facing away from the axis of an organ or organism']}
+abb:{'Noun': ['an urban hit squad and guerrilla group of the Communist Party in the Philippines; formed in the 1980s']}
+abbacy:{'Noun': ['the jurisdiction or office of an abbot']}
+abbacies:{'Noun': ['the jurisdiction or office of an abbot']}
+abbatial:{'Adjective': ['of or having to do with or belonging to an abbey or abbot, or abbess']}
+abbe:{'Noun': ['a French abbot']}
+abbey:{'Noun': ['a church associated with a monastery or convent', 'a convent ruled by an abbess', 'a monastery ruled by an abbot']}
+abbeys:{'Noun': ['a church associated with a monastery or convent', 'a convent ruled by an abbess', 'a monastery ruled by an abbot']}
+abbes:{'Noun': ['a French abbot']}
+abbess:{'Noun': ['the superior of a group of nuns']}
+abbesses:{'Noun': ['the superior of a group of nuns']}
+abbot:{'Noun': ['the superior of an abbey of monks']}
+abbots:{'Noun': ['the superior of an abbey of monks']}
+abbreviate:{'Verb': ['reduce in scope while retaining essential elements', 'shorten']}
+abbreviated:{'Adjective': ['(of clothing', 'cut short in duration'], 'Verb': ['reduce in scope while retaining essential elements', 'shorten']}
+abbreviates:{'Verb': ['reduce in scope while retaining essential elements', 'shorten']}
+abbreviating:{'Verb': ['reduce in scope while retaining essential elements', 'shorten']}
+abbreviation:{'Noun': ['a shortened form of a word or phrase', 'shortening something by omitting parts of it']}
+abbreviations:{'Noun': ['a shortened form of a word or phrase', 'shortening something by omitting parts of it']}
+abbreviator:{'Noun': ['one who shortens or abridges or condenses a written work']}
+abbreviators:{'Noun': ['one who shortens or abridges or condenses a written work']}
+abc:{'Noun': ['the elementary stages of any subject (usually plural']}
+abcoulomb:{'Noun': ['a unit of electrical charge equal to 10 coulombs']}
+abdicable:{'Adjective': ['capable of being discarded or renounced or relinquished']}
+abdicate:{'Verb': ['give up, such as power, as of monarchs and emperors, or duties and obligations']}
+abdicated:{'Verb': ['give up, such as power, as of monarchs and emperors, or duties and obligations']}
+abdicates:{'Verb': ['give up, such as power, as of monarchs and emperors, or duties and obligations']}
+abdicating:{'Verb': ['give up, such as power, as of monarchs and emperors, or duties and obligations']}
+abdication:{'Noun': ['a formal resignation and renunciation of powers', 'the act of abdicating']}
+abdications:{'Noun': ['a formal resignation and renunciation of powers', 'the act of abdicating']}
+abdicator:{'Noun': ['one who formally relinquishes an office or responsibility']}
+abdomen:{'Noun': ['the region of the body of a vertebrate between the thorax and the pelvis', 'the cavity containing the major viscera; in mammals it is separated from the thorax by the diaphragm']}
+abdomens:{'Noun': ['the region of the body of a vertebrate between the thorax and the pelvis', 'the cavity containing the major viscera; in mammals it is separated from the thorax by the diaphragm']}
+abdominal:{'Adjective': ['of or relating to or near the abdomen'], 'Noun': ['the muscles of the abdomen']}
+abdominals:{'Noun': ['the muscles of the abdomen']}
+abdominocentesis:{'Noun': ['centesis of the belly to remove fluid for diagnosis']}
+abdominous:{'Adjective': ['having a large belly']}
+abdominovesical:{'Adjective': ['of or relating to the abdomen and the urinary bladder']}
+abduce:{'Verb': ['advance evidence for']}
+abduced:{'Verb': ['advance evidence for']}
+abducens:{'Noun': ['a small motor nerve supplying the lateral rectus muscle of the eye']}
+abducent:{'Adjective': ['especially of muscles; drawing away from the midline of the body or from an adjacent part'], 'Noun': ['a small motor nerve supplying the lateral rectus muscle of the eye']}
+abduces:{'Verb': ['advance evidence for']}
+abducing:{'Verb': ['advance evidence for']}
+abduct:{'Verb': ['take away to an undisclosed location against their will and usually in order to extract a ransom', 'pull away from the body']}
+abducted:{'Verb': ['take away to an undisclosed location against their will and usually in order to extract a ransom', 'pull away from the body']}
+abducting:{'Adjective': ['especially of muscles; drawing away from the midline of the body or from an adjacent part'], 'Verb': ['take away to an undisclosed location against their will and usually in order to extract a ransom', 'pull away from the body']}
+abduction:{'Noun': ["the criminal act of capturing and carrying away by force a family member; if a man's wife is abducted it is a crime against the family relationship and against the wife", '(physiology']}
+abductions:{'Noun': ["the criminal act of capturing and carrying away by force a family member; if a man's wife is abducted it is a crime against the family relationship and against the wife", '(physiology']}
+abductor:{'Noun': ['someone who unlawfully seizes and detains a victim (usually for ransom', 'a muscle that draws a body part away from the median line']}
+abductors:{'Noun': ['someone who unlawfully seizes and detains a victim (usually for ransom', 'a muscle that draws a body part away from the median line']}
+abducts:{'Verb': ['take away to an undisclosed location against their will and usually in order to extract a ransom', 'pull away from the body']}
+abeam:{'Adverb': ['at right angles to the length of a ship or airplane']}
+abecedarian:{'Adjective': ['alphabetically arranged (as for beginning readers'], 'Noun': ['a novice learning the rudiments of some subject', 'a 16th century sect of Anabaptists centered in Germany who had an absolute disdain for human knowledge']}
+abecedarians:{'Noun': ['a novice learning the rudiments of some subject', 'a 16th century sect of Anabaptists centered in Germany who had an absolute disdain for human knowledge']}
+abecedarius:{'Noun': ['a poem having lines beginning with letters of the alphabet in regular order']}
+abed:{'Adverb': ['in bed']}
+abeyance:{'Noun': ['temporary cessation or suspension']}
+abeyances:{'Noun': ['temporary cessation or suspension']}
+abeyant:{'Adjective': ['inactive but capable of becoming active']}
+abel:{'Noun': ['Norwegian mathematician (1802-1829', '(Old Testament']}
+abele:{'Noun': ['a poplar that is widely cultivated in the United States; has white bark and leaves with whitish undersurfaces']}
+abeles:{'Noun': ['a poplar that is widely cultivated in the United States; has white bark and leaves with whitish undersurfaces']}
+abelia:{'Noun': ['any of various deciduous or evergreen ornamental shrubs of the genus Abelia having opposite simple leaves and cymes of small white or pink or purplish flowers; Asia and Mexico']}
+abelmoschus:{'Noun': ['genus of tropical coarse herbs having large lobed leaves and often yellow flowers']}
+abelmosk:{'Noun': ['bushy herb of tropical Asia grown for its yellow or pink to scarlet blooms that resemble the hibiscus']}
+abelmosks:{'Noun': ['bushy herb of tropical Asia grown for its yellow or pink to scarlet blooms that resemble the hibiscus']}
+aberdeen:{'Noun': ['a town in western Washington', 'a town in northeastern South Dakota', 'a town in northeastern Maryland', 'a city in northeastern Scotland on the North Sea']}
+aberdonian:{'Adjective': ['of or relating to Aberdeen']}
+aberrance:{'Noun': ['a state or condition markedly different from the norm']}
+aberrancy:{'Noun': ['a state or condition markedly different from the norm']}
+aberrancies:{'Noun': ['a state or condition markedly different from the norm']}
+aberrant:{'Adjective': ['markedly different from an accepted norm'], 'Noun': ['one whose behavior departs substantially from the norm of a group']}
+aberrants:{'Noun': ['one whose behavior departs substantially from the norm of a group']}
+aberrate:{'Verb': ['diverge from the expected', 'diverge or deviate from the straight path; produce aberration']}
+aberrated:{'Verb': ['diverge from the expected', 'diverge or deviate from the straight path; produce aberration']}
+aberrating:{'Verb': ['diverge from the expected', 'diverge or deviate from the straight path; produce aberration']}
+aberration:{'Noun': ['a state or condition markedly different from the norm', "a disorder in one's mental state", 'an optical phenomenon resulting from the failure of a lens or mirror to produce a good image']}
+aberrations:{'Noun': ['a state or condition markedly different from the norm', "a disorder in one's mental state", 'an optical phenomenon resulting from the failure of a lens or mirror to produce a good image']}
+abet:{'Verb': ['assist or encourage, usually in some wrongdoing']}
+abetment:{'Noun': ['the verbal act of urging on']}
+abetments:{'Noun': ['the verbal act of urging on']}
+abets:{'Verb': ['assist or encourage, usually in some wrongdoing']}
+abettal:{'Noun': ['the verbal act of urging on']}
+abettals:{'Noun': ['the verbal act of urging on']}
+abetted:{'Verb': ['assist or encourage, usually in some wrongdoing']}
+abetter:{'Noun': ['one who helps or encourages or incites another']}
+abetters:{'Noun': ['one who helps or encourages or incites another']}
+abetting:{'Verb': ['assist or encourage, usually in some wrongdoing']}
+abettor:{'Noun': ['one who helps or encourages or incites another']}
+abettors:{'Noun': ['one who helps or encourages or incites another']}
+abfarad:{'Noun': ['a capacitance unit equal to one billion farads']}
+abfarads:{'Noun': ['a capacitance unit equal to one billion farads']}
+abhenry:{'Noun': ['a unit of inductance equal to one billionth of a henry']}
+abhenries:{'Noun': ['a unit of inductance equal to one billionth of a henry']}
+abhenrys:{'Noun': ['a unit of inductance equal to one billionth of a henry']}
+abhor:{'Verb': ['find repugnant']}
+abhorred:{'Verb': ['find repugnant']}
+abhorrence:{'Noun': ['hate coupled with disgust']}
+abhorrences:{'Noun': ['hate coupled with disgust']}
+abhorrent:{'Adjective': ['offensive to the mind']}
+abhorrer:{'Noun': ['a signer of a 1679 address to Charles II in which those who petitioned for the reconvening of parliament were condemned and abhorred']}
+abhorrers:{'Noun': ['a signer of a 1679 address to Charles II in which those who petitioned for the reconvening of parliament were condemned and abhorred']}
+abhorring:{'Verb': ['find repugnant']}
+abhors:{'Verb': ['find repugnant']}
+aby:{'Verb': ['make amends for']}
+abidance:{'Noun': ['acting according to certain accepted standards', 'the act of dwelling in a place', 'the act of abiding (enduring without yielding']}
+abidances:{'Noun': ['acting according to certain accepted standards', 'the act of dwelling in a place', 'the act of abiding (enduring without yielding']}
+abide:{'Verb': ['put up with something or somebody unpleasant']}
+abided:{'Verb': ['put up with something or somebody unpleasant']}
+abides:{'Verb': ['put up with something or somebody unpleasant']}
+abiding:{'Adjective': ['lasting a long time'], 'Verb': ['put up with something or somebody unpleasant']}
+abye:{'Verb': ['make amends for']}
+abience:{'Noun': ['(psychology']}
+abient:{'Adjective': ['characterized by avoidance or withdrawal']}
+abies:{'Verb': ['make amends for'], 'Noun': ['true firs']}
+abyes:{'Verb': ['make amends for']}
+abying:{'Verb': ['make amends for', 'make amends for']}
+abilene:{'Noun': ['a city in central Texas', 'a town in central Kansas to the west of Topeka; home of Dwight D. Eisenhower']}
+ability:{'Noun': ['the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment', 'possession of the qualities (especially mental qualities']}
+abilities:{'Noun': ['the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment', 'possession of the qualities (especially mental qualities']}
+abiogeneses:{'Noun': ['a hypothetical organic phenomenon by which living organisms are created from nonliving matter']}
+abiogenesis:{'Noun': ['a hypothetical organic phenomenon by which living organisms are created from nonliving matter']}
+abiogenetic:{'Adjective': ['originating by abiogenesis']}
+abiogenist:{'Noun': ['a believer in abiogenesis']}
+abiotrophy:{'Noun': ['a loss of vitality and a degeneration of cells and tissues not due to any apparent injury']}
+abys:{'Verb': ['make amends for']}
+abysm:{'Noun': ['a bottomless gulf or pit; any unfathomable (or apparently unfathomable', 'often used figuratively']}
+abysmal:{'Adjective': ['very great; limitless', 'resembling an abyss in depth; so deep as to be unmeasurable']}
+abysmally:{'Adverb': ['in a terrible manner']}
+abysms:{'Noun': ['a bottomless gulf or pit; any unfathomable (or apparently unfathomable', 'often used figuratively']}
+abyss:{'Noun': ['a bottomless gulf or pit; any unfathomable (or apparently unfathomable', 'often used figuratively']}
+abyssal:{'Adjective': ['relating to ocean depths from 2000 to 5000 meters', 'resembling an abyss in depth; so deep as to be unmeasurable']}
+abysses:{'Noun': ['a bottomless gulf or pit; any unfathomable (or apparently unfathomable', 'often used figuratively']}
+abyssinia:{'Noun': ['Ethiopia is a republic in northeastern Africa on the Red Sea; formerly called Abyssinia']}
+abyssinian:{'Noun': ['a small slender short-haired breed of African origin having brownish fur with a reddish undercoat']}
+abyssinians:{'Noun': ['a small slender short-haired breed of African origin having brownish fur with a reddish undercoat']}
+abject:{'Adjective': ['of the most contemptible kind', 'most unfortunate or miserable', 'showing utter resignation or hopelessness', 'showing humiliation or submissiveness']}
+abjection:{'Noun': ['a low or downcast state']}
+abjections:{'Noun': ['a low or downcast state']}
+abjectly:{'Adverb': ['in a hopeless resigned manner']}
+abjuration:{'Noun': ['a disavowal or taking back of a previous assertion']}
+abjurations:{'Noun': ['a disavowal or taking back of a previous assertion']}
+abjure:{'Verb': ['formally reject or disavow a formerly held belief, usually under pressure']}
+abjured:{'Verb': ['formally reject or disavow a formerly held belief, usually under pressure']}
+abjurer:{'Noun': ['a person who abjures']}
+abjurers:{'Noun': ['a person who abjures']}
+abjures:{'Verb': ['formally reject or disavow a formerly held belief, usually under pressure']}
+abjuring:{'Verb': ['formally reject or disavow a formerly held belief, usually under pressure']}
+abkhas:{'Noun': ['a member of the Circassian people who live to the east of the Black Sea', 'Circassian people living east of the Black Sea']}
+abkhasian:{'Noun': ['a member of the Circassian people who live to the east of the Black Sea', 'a Circassian language spoken by the Abkhaz']}
+ablactate:{'Verb': ['gradually deprive (infants and young mammals']}
+ablactated:{'Verb': ['gradually deprive (infants and young mammals']}
+ablactating:{'Verb': ['gradually deprive (infants and young mammals']}
+ablactation:{'Noun': ['the cessation of lactation', "the act of substituting other food for the mother's milk in the diet of a child or young mammal"]}
+ablate:{'Verb': ['wear away through erosion or vaporization', 'remove an organ or bodily structure']}
+ablated:{'Adjective': ['made smaller or less by melting or erosion or vaporization'], 'Verb': ['wear away through erosion or vaporization', 'remove an organ or bodily structure']}
+ablates:{'Verb': ['wear away through erosion or vaporization', 'remove an organ or bodily structure']}
+ablating:{'Verb': ['wear away through erosion or vaporization', 'remove an organ or bodily structure']}
+ablation:{'Noun': ['surgical removal of a body part or tissue', 'the erosive process that reduces the size of glaciers']}
+ablations:{'Noun': ['surgical removal of a body part or tissue', 'the erosive process that reduces the size of glaciers']}
+ablative:{'Adjective': ['relating to the ablative case', 'tending to ablate; i.e. to be removed or vaporized at very high temperature'], 'Noun': ['the case indicating the agent in passive sentences or the instrument or manner or place of the action described by the verb']}
+ablatives:{'Noun': ['the case indicating the agent in passive sentences or the instrument or manner or place of the action described by the verb']}
+ablaut:{'Noun': ['a vowel whose quality or length is changed to indicate linguistic distinctions (such as sing sang sung song']}
+ablauts:{'Noun': ['a vowel whose quality or length is changed to indicate linguistic distinctions (such as sing sang sung song']}
+ablaze:{'Adjective': ['keenly excited (especially sexually', 'lighted up by or as by fire or flame', 'or afire', 'resembling flame in brilliance or color', 'lighted with red light as if with flames']}
+able:{'Adjective': ["(usually followed by `to'", 'have the skills and qualifications to do things well', 'having inherent physical or mental ability or capacity', 'having a strong healthy body']}
+ablepharia:{'Noun': ['a congenital absence of eyelids (partial or complete']}
+abler:{'Adjective': ["(usually followed by `to'", 'have the skills and qualifications to do things well', 'having inherent physical or mental ability or capacity', 'having a strong healthy body']}
+ablest:{'Adjective': ["(usually followed by `to'", 'have the skills and qualifications to do things well', 'having inherent physical or mental ability or capacity', 'having a strong healthy body']}
+ably:{'Adverb': ['with competence; in a competent capable manner']}
+abloom:{'Adjective': ['bursting into flower']}
+ablution:{'Noun': ["the ritual washing of a priest's hands or of sacred vessels"]}
+ablutionary:{'Adjective': ['cleansing the body by washing; especially ritual washing of e.g. hands']}
+ablutions:{'Noun': ["the ritual washing of a priest's hands or of sacred vessels"]}
+abnaki:{'Adjective': ['of or relating to the Abnakis or their language'], 'Noun': ['a member of the Algonquian people of Maine and southern Quebec', 'the Algonquian language spoken by the Abnaki and Penobscot']}
+abnegate:{'Verb': ['deny oneself (something', 'surrender (power or a position', 'deny or renounce']}
+abnegated:{'Verb': ['deny oneself (something', 'surrender (power or a position', 'deny or renounce']}
+abnegates:{'Verb': ['deny oneself (something', 'surrender (power or a position', 'deny or renounce']}
+abnegating:{'Verb': ['deny oneself (something', 'surrender (power or a position', 'deny or renounce']}
+abnegation:{'Noun': ['the denial and rejection of a doctrine or belief', 'renunciation of your own interests in favor of the interests of others']}
+abnegations:{'Noun': ['the denial and rejection of a doctrine or belief', 'renunciation of your own interests in favor of the interests of others']}
+abnegator:{'Noun': ['one who gives up or relinquishes or renounces something']}
+abnegators:{'Noun': ['one who gives up or relinquishes or renounces something']}
+abnormal:{'Adjective': ['not normal; not typical or usual or regular or conforming to a norm', 'departing from the normal in e.g. intelligence and development', 'much greater than the normal']}
+abnormalcy:{'Noun': ['an abnormal physical condition resulting from defective genes or developmental deficiencies']}
+abnormalcies:{'Noun': ['an abnormal physical condition resulting from defective genes or developmental deficiencies']}
+abnormality:{'Noun': ['an abnormal physical condition resulting from defective genes or developmental deficiencies', 'retardation sufficient to fall outside the normal range of intelligence', 'marked strangeness as a consequence of being abnormal', 'behavior that breaches the rule or etiquette or custom or morality']}
+abnormalities:{'Noun': ['an abnormal physical condition resulting from defective genes or developmental deficiencies', 'retardation sufficient to fall outside the normal range of intelligence', 'marked strangeness as a consequence of being abnormal', 'behavior that breaches the rule or etiquette or custom or morality']}
+abnormally:{'Adverb': ['in an abnormal manner']}
+aboard:{'Adverb': ['on a ship, train, plane or other vehicle', 'on first or second or third base', 'side by side', 'part of a group']}
+abode:{'Verb': ['put up with something or somebody unpleasant'], 'Noun': ['any address at which you dwell more than temporarily', 'housing that someone is living in']}
+abodes:{'Noun': ['any address at which you dwell more than temporarily', 'housing that someone is living in']}
+abohm:{'Noun': ['a unit of resistance equal to a billionth of an ohm']}
+abohms:{'Noun': ['a unit of resistance equal to a billionth of an ohm']}
+abolish:{'Verb': ['do away with']}
+abolishable:{'Adjective': ['capable of being abolished']}
+abolished:{'Verb': ['do away with']}
+abolishes:{'Verb': ['do away with']}
+abolishing:{'Verb': ['do away with']}
+abolishment:{'Noun': ['the act of abolishing a system or practice or institution (especially abolishing slavery']}
+abolishments:{'Noun': ['the act of abolishing a system or practice or institution (especially abolishing slavery']}
+abolition:{'Noun': ['the act of abolishing a system or practice or institution (especially abolishing slavery']}
+abolitionary:{'Adjective': ['relating to or favoring abolition, especially abolition of slavery']}
+abolitionism:{'Noun': ['the doctrine that calls for the abolition of slavery']}
+abolitionist:{'Noun': ['a reformer who favors abolishing slavery']}
+abolitionists:{'Noun': ['a reformer who favors abolishing slavery']}
+abomasa:{'Noun': ['the fourth compartment of the stomach of a ruminant; the one where digestion takes place']}
+abomasal:{'Adjective': ['relating to the abomasum (the fourth compartment of the stomach of ruminants']}
+abomasum:{'Noun': ['the fourth compartment of the stomach of a ruminant; the one where digestion takes place']}
+abominable:{'Adjective': ['unequivocally detestable', 'exceptionally bad or displeasing']}
+abominably:{'Adverb': ['in an offensive and hateful manner', 'in a terrible manner']}
+abominate:{'Verb': ['find repugnant']}
+abominated:{'Verb': ['find repugnant']}
+abominates:{'Verb': ['find repugnant']}
+abominating:{'Verb': ['find repugnant']}
+abomination:{'Noun': ['a person who is loathsome or disgusting', 'hate coupled with disgust', 'an action that is vicious or vile; an action that arouses disgust or abhorrence']}
+abominations:{'Noun': ['a person who is loathsome or disgusting', 'hate coupled with disgust', 'an action that is vicious or vile; an action that arouses disgust or abhorrence']}
+abominator:{'Noun': ['one who hates or loathes']}
+abominators:{'Noun': ['one who hates or loathes']}
+aborad:{'Adverb': ['away from the mouth or oral region']}
+aboral:{'Adjective': ['opposite to or away from the mouth']}
+aboriginal:{'Adjective': ['characteristic of or relating to people inhabiting a region from the beginning', 'having existed from the beginning; in an earliest or original stage or state'], 'Noun': ['an indigenous person who was born in a particular place']}
+aboriginals:{'Noun': ['an indigenous person who was born in a particular place']}
+aborigine:{'Noun': ['an indigenous person who was born in a particular place', 'a member of the people living in Australia when Europeans arrived']}
+aborigines:{'Noun': ['an indigenous person who was born in a particular place', 'a member of the people living in Australia when Europeans arrived']}
+abort:{'Verb': ['terminate before completion', 'cease development, die, and be aborted', 'terminate a pregnancy by undergoing an abortion'], 'Noun': ['the act of terminating a project or procedure before it is completed']}
+aborted:{'Verb': ['terminate before completion', 'cease development, die, and be aborted', 'terminate a pregnancy by undergoing an abortion']}
+aborticide:{'Noun': ['a drug (or other chemical agent', 'the act of destroying a fetus']}
+abortifacient:{'Adjective': ['causing abortion'], 'Noun': ['a drug (or other chemical agent']}
+aborting:{'Verb': ['terminate before completion', 'cease development, die, and be aborted', 'terminate a pregnancy by undergoing an abortion']}
+abortion:{'Noun': ['termination of pregnancy', 'failure of a plan']}
+abortionist:{'Noun': ['a person (who should be a doctor']}
+abortionists:{'Noun': ['a person (who should be a doctor']}
+abortions:{'Noun': ['termination of pregnancy', 'failure of a plan']}
+abortive:{'Adjective': ['failing to accomplish an intended result']}
+abortively:{'Adverb': ['in an unfruitful manner']}
+aborts:{'Verb': ['terminate before completion', 'cease development, die, and be aborted', 'terminate a pregnancy by undergoing an abortion'], 'Noun': ['the act of terminating a project or procedure before it is completed']}
+abortus:{'Noun': ["a human fetus whose weight is less than 0.5 kilogram when removed or expelled from the mother's body"]}
+abortuses:{'Noun': ["a human fetus whose weight is less than 0.5 kilogram when removed or expelled from the mother's body"]}
+abought:{'Verb': ['make amends for', 'make amends for']}
+aboulia:{'Noun': ['a loss of will power']}
+aboulias:{'Noun': ['a loss of will power']}
+aboulic:{'Adjective': ['suffering from abulia; showing abnormal inability to act or make decisions']}
+abound:{'Verb': ['be abundant or plentiful; exist in large quantities', 'be in a state of movement or action']}
+abounded:{'Verb': ['be abundant or plentiful; exist in large quantities', 'be in a state of movement or action']}
+abounding:{'Adjective': ['existing in abundance'], 'Verb': ['be abundant or plentiful; exist in large quantities', 'be in a state of movement or action']}
+abounds:{'Verb': ['be abundant or plentiful; exist in large quantities', 'be in a state of movement or action']}
+about:{'Adjective': ['on the move'], 'Adverb': ['(of quantities', 'all around or on all sides', 'or about', 'in the area or vicinity', 'used of movement to or among many different places or in no particular direction', 'or about', 'in or to a reversed position or direction', 'in rotation or succession', '(of actions or states']}
+above:{'Adjective': ['appearing earlier in the same text'], 'Noun': ['an earlier section of a written text'], 'Adverb': ['(in writing', 'in or to a place that is higher']}
+aboveboard:{'Adjective': ['without concealment or deception; honest'], 'Adverb': ['in an honest manner']}
+aboveground:{'Adjective': ['on or above the surface of the ground']}
+aboves:{'Noun': ['an earlier section of a written text']}
+abracadabra:{'Noun': ['gibberish and nonsense']}
+abrachia:{'Noun': ['the condition of having no arms']}
+abrachias:{'Noun': ['the condition of having no arms']}
+abradant:{'Noun': ['a substance that abrades or wears down', 'a tool or machine used for wearing down or smoothing or polishing']}
+abradants:{'Noun': ['a substance that abrades or wears down', 'a tool or machine used for wearing down or smoothing or polishing']}
+abrade:{'Verb': ['wear away', 'rub hard or scrub']}
+abraded:{'Verb': ['wear away', 'rub hard or scrub']}
+abrader:{'Noun': ['a tool or machine used for wearing down or smoothing or polishing']}
+abraders:{'Noun': ['a tool or machine used for wearing down or smoothing or polishing']}
+abrades:{'Verb': ['wear away', 'rub hard or scrub']}
+abrading:{'Verb': ['wear away', 'rub hard or scrub']}
+abraham:{'Noun': ["the first of the Old Testament patriarchs and the father of Isaac; according to Genesis, God promised to give Abraham's family (the Hebrews", 'the Promised Land']}
+abramis:{'Noun': ['European fishes']}
+abranchial:{'Adjective': ['having no gills']}
+abranchiate:{'Adjective': ['having no gills']}
+abranchious:{'Adjective': ['having no gills']}
+abrase:{'Verb': ['wear away']}
+abrased:{'Verb': ['wear away']}
+abrasing:{'Verb': ['wear away']}
+abrasion:{'Noun': ['an abraded area where the skin is torn or worn off', 'erosion by friction', 'the wearing down of rock particles by friction due to water or wind or ice']}
+abrasions:{'Noun': ['an abraded area where the skin is torn or worn off', 'erosion by friction', 'the wearing down of rock particles by friction due to water or wind or ice']}
+abrasive:{'Adjective': ['causing abrasion', 'sharply disagreeable; rigorous'], 'Noun': ['a substance that abrades or wears down']}
+abrasiveness:{'Noun': ['the roughness of a substance that causes abrasions', 'the quality of being sharply disagreeable']}
+abrasives:{'Noun': ['a substance that abrades or wears down']}
+abreact:{'Verb': ['discharge bad feelings or tension through verbalization']}
+abreacted:{'Verb': ['discharge bad feelings or tension through verbalization']}
+abreacting:{'Verb': ['discharge bad feelings or tension through verbalization']}
+abreaction:{'Noun': ['(psychoanalysis']}
+abreactions:{'Noun': ['(psychoanalysis']}
+abreacts:{'Verb': ['discharge bad feelings or tension through verbalization']}
+abreast:{'Adjective': ['being up to particular standard or level especially in being up to date in knowledge'], 'Adverb': ['alongside each other, facing in the same direction']}
+abridge:{'Verb': ['reduce in scope while retaining essential elements', 'lessen, diminish, or curtail']}
+abridged:{'Adjective': ['(used of texts'], 'Verb': ['reduce in scope while retaining essential elements', 'lessen, diminish, or curtail']}
+abridgement:{'Noun': ['a shortened version of a written work']}
+abridgements:{'Noun': ['a shortened version of a written work']}
+abridger:{'Noun': ['one who shortens or abridges or condenses a written work']}
+abridgers:{'Noun': ['one who shortens or abridges or condenses a written work']}
+abridges:{'Verb': ['reduce in scope while retaining essential elements', 'lessen, diminish, or curtail']}
+abridging:{'Verb': ['reduce in scope while retaining essential elements', 'lessen, diminish, or curtail']}
+abridgment:{'Noun': ['a shortened version of a written work']}
+abridgments:{'Noun': ['a shortened version of a written work']}
+abroach:{'Adjective': ['of a cask or barrel']}
+abroad:{'Adjective': ['in a foreign country'], 'Adverb': ['to or in a foreign country', "far away from home or one's usual surroundings", 'in a place across an ocean']}
+abrocoma:{'Noun': ['abrocomes']}
+abrocome:{'Noun': ['ratlike rodent with soft fur and large ears of the Andes']}
+abrogate:{'Verb': ['revoke formally']}
+abrogated:{'Verb': ['revoke formally']}
+abrogates:{'Verb': ['revoke formally']}
+abrogating:{'Verb': ['revoke formally']}
+abrogation:{'Noun': ['the act of abrogating; an official or legal cancellation']}
+abrogations:{'Noun': ['the act of abrogating; an official or legal cancellation']}
+abrogator:{'Noun': ['an authority or official empowered to abolish or annul or repeal']}
+abrogators:{'Noun': ['an authority or official empowered to abolish or annul or repeal']}
+abronia:{'Noun': ['genus of western North American herbs having showy flowers']}
+abrupt:{'Adjective': ['marked by sudden changes in subject and sharp transitions', 'exceedingly sudden and unexpected', 'extremely steep', 'surprisingly and unceremoniously brusque in manner']}
+abrupter:{'Adjective': ['marked by sudden changes in subject and sharp transitions', 'exceedingly sudden and unexpected', 'extremely steep', 'surprisingly and unceremoniously brusque in manner']}
+abruptest:{'Adjective': ['marked by sudden changes in subject and sharp transitions', 'exceedingly sudden and unexpected', 'extremely steep', 'surprisingly and unceremoniously brusque in manner']}
+abruption:{'Noun': ['an instance of sudden interruption']}
+abruptly:{'Adverb': ['quickly and without warning']}
+abruptness:{'Noun': ['an abrupt discourteous manner', 'the property possessed by a slope that is very steep', 'the quality of happening with headlong haste or without warning']}
+abs:{'Noun': ["a bachelor's degree in arts and sciences", 'the eleventh month of the civil year; the fifth month of the ecclesiastical year in the Jewish calendar (in July and August', 'the muscles of the abdomen', 'the blood group whose red cells carry both the A and B antigens', 'any of a class of composite plastics used to make car bodies and cases for computers and other appliances']}
+abscess:{'Noun': ['symptom consisting of a localized collection of pus surrounded by inflamed tissue']}
+abscessed:{'Adjective': ['infected and filled with pus']}
+abscesses:{'Noun': ['symptom consisting of a localized collection of pus surrounded by inflamed tissue']}
+abscise:{'Verb': ['shed flowers and leaves and fruit following formation of a scar tissue', 'remove or separate by abscission']}
+abscised:{'Verb': ['shed flowers and leaves and fruit following formation of a scar tissue', 'remove or separate by abscission']}
+abscises:{'Verb': ['shed flowers and leaves and fruit following formation of a scar tissue', 'remove or separate by abscission']}
+abscising:{'Verb': ['shed flowers and leaves and fruit following formation of a scar tissue', 'remove or separate by abscission']}
+abscissa:{'Noun': ['the value of a coordinate on the horizontal axis']}
+abscissae:{'Noun': ['the value of a coordinate on the horizontal axis']}
+abscissas:{'Noun': ['the value of a coordinate on the horizontal axis']}
+abscission:{'Noun': ['shedding of flowers and leaves and fruit following formation of scar tissue in a plant', 'the act of cutting something off']}
+abscissions:{'Noun': ['shedding of flowers and leaves and fruit following formation of scar tissue in a plant', 'the act of cutting something off']}
+abscond:{'Verb': ['run away; usually includes taking something or somebody along']}
+absconded:{'Verb': ['run away; usually includes taking something or somebody along']}
+absconder:{'Noun': ['a fugitive who runs away and hides to avoid arrest or prosecution']}
+absconders:{'Noun': ['a fugitive who runs away and hides to avoid arrest or prosecution']}
+absconding:{'Verb': ['run away; usually includes taking something or somebody along']}
+absconds:{'Verb': ['run away; usually includes taking something or somebody along']}
+abseil:{'Verb': ['descend by means of a rappel'], 'Noun': ['(mountaineering']}
+abseiled:{'Verb': ['descend by means of a rappel']}
+abseiling:{'Verb': ['descend by means of a rappel']}
+abseils:{'Verb': ['descend by means of a rappel'], 'Noun': ['(mountaineering']}
+absence:{'Noun': ['the state of being absent', 'failure to be present', 'the time interval during which something or somebody is away', 'the occurrence of an abrupt, transient loss or impairment of consciousness (which is not subsequently remembered']}
+absences:{'Noun': ['the state of being absent', 'failure to be present', 'the time interval during which something or somebody is away', 'the occurrence of an abrupt, transient loss or impairment of consciousness (which is not subsequently remembered']}
+absent:{'Adjective': ['not being in a specified place', 'nonexistent', 'lost in thought; showing preoccupation'], 'Verb': ['go away or leave']}
+absented:{'Verb': ['go away or leave']}
+absentee:{'Noun': ['one that is absent or not in residence']}
+absenteeism:{'Noun': ['habitual absence from work']}
+absentees:{'Noun': ['one that is absent or not in residence']}
+absenter:{'Adjective': ['not being in a specified place', 'nonexistent', 'lost in thought; showing preoccupation']}
+absenting:{'Verb': ['go away or leave']}
+absently:{'Adverb': ['in an absentminded or preoccupied manner']}
+absentminded:{'Adjective': ['lost in thought; showing preoccupation']}
+absentmindedly:{'Adverb': ['in an absentminded or preoccupied manner']}
+absentmindedness:{'Noun': ['preoccupation so great that the ordinary demands on attention are ignored']}
+absents:{'Verb': ['go away or leave']}
+absinth:{'Noun': ['strong green liqueur flavored with wormwood and anise']}
+absinthe:{'Noun': ['aromatic herb of temperate Eurasia and North Africa having a bitter taste used in making the liqueur absinthe', 'strong green liqueur flavored with wormwood and anise']}
+absinthes:{'Noun': ['aromatic herb of temperate Eurasia and North Africa having a bitter taste used in making the liqueur absinthe', 'strong green liqueur flavored with wormwood and anise']}
+absinths:{'Noun': ['strong green liqueur flavored with wormwood and anise']}
